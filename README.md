@@ -1,4 +1,4 @@
-#Hi,I'm Pratiksha 
+
 # Node.js Project by Pratiksha
 
 Welcome to my Node.js project! This repository contains the source code and setup instructions for a basic Node.js application.
